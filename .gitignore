@@ -1,6 +1,12 @@
 .bundle/
 log/*.log
 pkg/
+/.idea
+.ruby-version
+*.iml
+.DS_Store
+**.swp
+
 test/dummy/db/*.sqlite3
 test/dummy/db/*.sqlite3-journal
 test/dummy/log/*.log
